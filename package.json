@@ -1,0 +1,15 @@
+{
+  "name": "com.sinanermis.simple-pooling",
+  "version": "1.0.0",
+  "displayName": "Simple Pooling",
+  "description": "Simple Pooling Solution for Unity",
+  "author": {
+    "name": "Sinan Ermiş",
+    "email": "sinann.ermis@gmail.com",
+    "url": "sinanermis.com"
+  },
+  "keywords": [
+    "pool",
+    "object pool"
+  ]
+}
