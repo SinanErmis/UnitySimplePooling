@@ -11,5 +11,8 @@
   "keywords": [
     "pool",
     "object pool"
-  ]
+  ],
+  "changelogUrl": "https://github.com/SinanErmis/UnitySimplePooling/blob/main/CHANGELOG.md",
+  "documentationUrl" : "https://github.com/SinanErmis/UnitySimplePooling/blob/main/README.md",
+  "license": "MIT"
 }
