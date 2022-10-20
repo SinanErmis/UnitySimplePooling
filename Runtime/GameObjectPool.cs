@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SinanErmis.SimplePooling
+namespace SimplePooling.Runtime
 {
     public class GameObjectPool : BasePool<GameObject>
     {

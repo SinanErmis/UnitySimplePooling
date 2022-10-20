@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace SinanErmis.SimplePooling
+namespace SimplePooling.Runtime
 {
     public abstract class BasePool<T>
     {

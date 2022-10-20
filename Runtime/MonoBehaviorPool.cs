@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SinanErmis.SimplePooling
+namespace SimplePooling.Runtime
 {
     //This class is implemented to prevent any possible confusion between MonoBehaviorPool and ComponentPool 
     public class MonoBehaviorPool<T> : ComponentPool<T> where T : MonoBehaviour

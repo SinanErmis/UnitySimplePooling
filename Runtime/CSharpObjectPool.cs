@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace SinanErmis.SimplePooling
+namespace SimplePooling.Runtime
 {
     public class CSharpObjectPool<T> : BasePool<T> where T : class, new()
     {
